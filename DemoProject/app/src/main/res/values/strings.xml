@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Button_Pressing</string>
+
+    <string name="html_data">
+        <![CDATA[
+        <h1>This is html h1.</h1>
+        <h2>This is html h2</h2>
+        <p>This is html p tag</p>
+        <a href="#" onclick="javascrpit:alert('You click this link.')">This is a link</a>
+        ]]>
+    </string>
+
+</resources>
